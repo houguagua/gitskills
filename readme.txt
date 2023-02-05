@@ -1,7 +1,4 @@
-Creating a new branch is quick & simple;
-Ignore this file;
-o
-o
+Creating a new branch is quick;
 o
 o
 o
