@@ -1,5 +1,6 @@
 Creating a new branch is simple;
 Ignore this file;
-这是第四行
-这是第五行
-这是第六行
+main保留此行
+dev保留此行
+main删除此行
+dev删除此行
