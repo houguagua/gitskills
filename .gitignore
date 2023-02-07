@@ -1,0 +1,7 @@
+#排除所有.开头的隐藏文件：
+.*
+#排除所有.pyc文件
+*.pyc
+
+#不排除.gitignore
+!.gitignore
